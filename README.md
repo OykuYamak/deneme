@@ -1,2 +1,2 @@
 # deneme
-deneme yapiyorum
+deneme yapiyorum. merhaba.
